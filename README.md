@@ -26,18 +26,7 @@ it's part of a repo series designed to create a **Web Application with Angular 1
 # [Quick start](#quick-start)
 
 ```bash
-# choose a repo
-# download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-example-starter.git
 
-# download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-example-starter.git
-
-# download the example or clone the repo from bitbucket
-git clone https://bitbucket.org/ganatan/angular-example-starter.git
-
-# change directory
-cd angular-example-starter
 
 # install the repo with npm
 npm install
